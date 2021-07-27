@@ -27,3 +27,5 @@ Steps:
 - CREATE USER 'namauser'@'localhost' IDENTIFIED BY 'password user';
 - GRANT ALL PRIVILEGES ON *.* TO 'namauser'@'localhost' WITH GRANT OPTION;
 - systemctl restart apache2
+
+- https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-id
