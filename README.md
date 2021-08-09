@@ -30,7 +30,7 @@ Steps:
 - GRANT permission1, permission2 ON nama_database.nama_tabel TO 'user_database'@'localhost';
 # Berikut ini beberapa contohnya:
 - Memberikan semua hak istimewa ke akun pengguna untuk database tertentu :
-  /* GRANT ALL PRIVILEGES ON nama_database.* TO 'user_database'@'localhost'; */
+``` GRANT ALL PRIVILEGES ON nama_database.* TO 'user_database'@'localhost'; ```
 - systemctl restart apache2
 
 - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-id
