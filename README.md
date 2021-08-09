@@ -25,7 +25,9 @@ Steps:
 
 # Konfigurasi Database
 - mysql
-- CREATE USER 'namauser'@'localhost' IDENTIFIED BY 'password user';
+```
+CREATE USER 'namauser'@'localhost' IDENTIFIED BY 'password user';
+```
 * Untuk memberikan hak khusus ke akun pengguna, Anda dapat menggunakan sintaks berikut:
 - GRANT permission1, permission2 ON nama_database.nama_tabel TO 'user_database'@'localhost';
 # Berikut ini beberapa contohnya:
