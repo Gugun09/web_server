@@ -47,3 +47,5 @@ GRANT ALL PRIVILEGES ON *.* TO 'user_database'@'localhost';
 
 - https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04-id
 - https://aantamim.id/mengaktifkan-htaccess-apache/
+- https://learn2torials.com/a/laravel-error-handling
+- https://www.dewaweb.com/blog/cara-install-ssl-lets-encrypt-pada-apache-di-ubuntu-18-04/
